@@ -1,6 +1,6 @@
 ### Translate music files in ABC format to a CSV file for use by Sonic PI or for analysis
 #### What are ABC files and how to use them?
-####runABC
+#### runABC
 runABC is a program to edit, view the musical score, print the musical score and play ABC files in Midi format.
 It can be found at: [runABC]( http://ifdo.ca/~seymour/runabc/top.html)
 
