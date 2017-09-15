@@ -133,6 +133,10 @@ This list the theme order to play the song of 8 measures total.
 |24|7|4F00.1254E00.1254D00.1254C00.125|2|M2|
 |28|8|4C00.1254D00.1254E00.1254F00.125|1|M1|
 
+#### Just for fun
+
+[GOT]( https://drive.google.com/open?id=0BxMOEsGLzwfeak1tUkZNM2pEVjA)
+
 
 
 
